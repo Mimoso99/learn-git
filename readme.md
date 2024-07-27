@@ -2,5 +2,5 @@
 
 hello i am learning
 
-´´´javascript
-console.log('hello_world')
+'''javascript
+console.log('hello_world');
